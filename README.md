@@ -7,8 +7,9 @@ Here are some ideas to get you started: -->
 
 
 #### I am an Engineering Manager who occasionally codes for learning and fun
+<!--
 ![Engineering Leader](https://aboutme.imgix.net/background/users/a/s/h/ashishm1shra_1586338045_684.jpg)
-
+-->
 
 - Tech-stack I have worked on : 
   - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.oracle.com/in/java/) 
