@@ -10,7 +10,8 @@ Here are some ideas to get you started: -->
 ![Engineering Leader](https://aboutme.imgix.net/background/users/a/s/h/ashishm1shra_1586338045_684.jpg)
 
 
-Skills: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.oracle.com/in/java/) 
+- Tech-stack I have worked on : 
+  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.oracle.com/in/java/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](https://start.spring.io/) 
 [<img src='https://simpleicons.org/icons/amazonaws.svg' alt='aws' height='40'>](https://aws.amazon.com/) 
 [<img src='https://simpleicons.org/icons/angular.svg' alt='angular' height='40'>](https://angular.io/)
@@ -23,15 +24,24 @@ Skills: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.sv
 
 - 🔭 Currently working with [<img src='https://simpleicons.org/icons/groupon.svg' height='20'>](https://www.groupon.com/)ROUPON 
 - 💬 Ask me about [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='20'>](https://start.spring.io/) Springboot on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/https://stackoverflow.com/users/story/6229475)
-- Worked with [<img src='https://www.logo.wine/a/logo/JPMorgan_Chase/JPMorgan_Chase-Logo.wine.svg' height='50'>](https://www.chase.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/cisco.svg' alt='cisco' height='50'>](https://www.cisco.com)
 
-- My Community profile: 
+<h3>I am also active on:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/ashishm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://medium.com/@mishra.ashish" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/story/6229475" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange" /></a>
+  <a href="https://about.me/ashishm1shra" target="_blank"><img alt="aboutme" src="https://img.shields.io/badge/about.me-%230077B5.svg?&style=for-the-badge&logo=about.me&logoColor=pink" /></a>
+</p>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishmishraw&show_icons=true)  
+
+<!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/story/6229475)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ashishmishraw) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ashishm/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://about.me/ashishm1shra)
+-->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishmishraw&show_icons=true)  
 
-![Profile views](https://github.com/ashishmishraw)
+
 
