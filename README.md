@@ -24,7 +24,7 @@ Here are some ideas to get you started: -->
 
 
 - 🔭 Currently working with [<img src='https://simpleicons.org/icons/groupon.svg' height='20'>](https://www.groupon.com/)ROUPON 
-- 💬 Ask me about [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='20'>](https://start.spring.io/) Springboot on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/https://stackoverflow.com/users/story/6229475)
+- 💬 Ask me about [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='20'>](https://start.spring.io/) Springboot on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/story/6229475)
 
 <h3>I am also active on:</h3>
 <p>
