@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 [<img src='https://simpleicons.org/icons/nginx.svg' alt='postgres' height='40'>](https://www.nginx.com/)
 
 
-- 🔭 Currently working with [<img src='https://simpleicons.org/icons/groupon.svg' height='20'>](https://www.groupon.com/)ROUPON 
+- 🔭 Currently working with [<img src='https://symbols-electrical.getvecta.com/stencil_74/60_appdynamics.8f0956e8a2.svg' height='20'>](https://www.groupon.com/)
 - 💬 Ask me about [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='20'>](https://start.spring.io/) Springboot on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/story/6229475)
 
 <h3>I am also active on:</h3>
