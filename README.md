@@ -5,22 +5,25 @@
 
 Here are some ideas to get you started: -->
 
-
 #### I am an Senior Engineering Leader who occasionally codes for learning and fun
 <!--
 ![Engineering Leader](https://aboutme.imgix.net/background/users/a/s/h/ashishm1shra_1586338045_684.jpg)
 -->
 
 - Tech-stack I have worked on : 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.oracle.com/in/java/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](https://start.spring.io/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.oracle.com/in/java/)
+[<img src='https://simpleicons.org/icons/python.svg' alt='python' height='40'>](https://www.python.org)
+[<img src='https://simpleicons.org/icons/typescript.svg' alt='typescript' height='40'>](https://www.https://www.typescriptlang.org)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](https://start.spring.io/)
+[<img src='https://simpleicons.org/icons/microsoftazure.svg' alt='azure' height='40'>](https://azure.microsoft.com/) 
 [<img src='https://simpleicons.org/icons/amazonaws.svg' alt='aws' height='40'>](https://aws.amazon.com/) 
 [<img src='https://simpleicons.org/icons/angular.svg' alt='angular' height='40'>](https://angular.io/)
 [<img src='https://simpleicons.org/icons/mongodb.svg' alt='mongo' height='40'>](https://www.mongodb.com)
 [<img src='https://simpleicons.org/icons/redis.svg' alt='redis' height='40'>](https://redis.io/)
 [<img src='https://simpleicons.org/icons/postgresql.svg' alt='postgres' height='40'>](https://www.postgresql.org/)
-[<img src='https://simpleicons.org/icons/apachekafka.svg' alt='postgres' height='40'>](https://kafka.apache.org)
-[<img src='https://simpleicons.org/icons/nginx.svg' alt='postgres' height='40'>](https://www.nginx.com/)
+[<img src='https://simpleicons.org/icons/apachekafka.svg' alt='kafka' height='40'>](https://kafka.apache.org)
+[<img src='https://simpleicons.org/icons/nginx.svg' alt='nginx' height='40'>](https://www.nginx.com/)
+
 
 
 - 🔭 Currently working with [<img src='https://upload.wikimedia.org/wikipedia/commons/8/8b/Duo_Logo_Green.svg' height='30'>](https://www.duo.com) 
