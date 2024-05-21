@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 -->
 
 - Tech-stack I have worked on : 
-  - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.oracle.com/in/java/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](https://www.oracle.com/in/java/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](https://start.spring.io/) 
 [<img src='https://simpleicons.org/icons/amazonaws.svg' alt='aws' height='40'>](https://aws.amazon.com/) 
 [<img src='https://simpleicons.org/icons/angular.svg' alt='angular' height='40'>](https://angular.io/)
@@ -23,8 +23,8 @@ Here are some ideas to get you started: -->
 [<img src='https://simpleicons.org/icons/nginx.svg' alt='postgres' height='40'>](https://www.nginx.com/)
 
 
-- 🔭 Currently working with [<img src='https://commons.wikimedia.org/wiki/File:Duo_Logo_Green.svg' height='30'>](https://www.duo.com) 
-- Previously worked with [<img src='https://symbols-electrical.getvecta.com/stencil_74/60_appdynamics.8f0956e8a2.svg' height='30'>](https://www.appdynamics.com/)
+- 🔭 Currently working with [<img src='https://upload.wikimedia.org/wikipedia/commons/8/8b/Duo_Logo_Green.svg' height='30'>](https://www.duo.com) 
+- Previously worked with [<img src='https://www.vectorlogo.zone/util/preview?image=/logos/appdynamics/appdynamics-ar21.svg' height='30'>](https://www.appdynamics.com/)
  [<img src='https://simpleicons.org/icons/groupon.svg' height='20'>](https://www.groupon.com/)ROUPON, [<img src='https://upload.wikimedia.org/wikipedia/commons/0/07/J_P_Morgan_Chase_Logo_2008_1.svg' height='30'>](http://www.chase.com)  and  [<img src='https://simpleicons.org/icons/cisco.svg' height='40'>](http://www.cisco.com)
 - 💬 Ask me about [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='20'>](https://start.spring.io/) Springboot on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/story/6229475)
 
