@@ -25,16 +25,12 @@ Here are some ideas to get you started: -->
 
 - 🔭 Currently working with [<img src='https://upload.wikimedia.org/wikipedia/commons/8/8b/Duo_Logo_Green.svg' height='30'>](https://www.duo.com) 
 - Previously worked with [<img src='https://www.vectorlogo.zone/logos/appdynamics/appdynamics-ar21.svg' height='80'>](https://www.appdynamics.com/)
- [<img src='https://simpleicons.org/icons/groupon.svg' height='20'>](https://www.groupon.com/)ROUPON, [<img src='https://upload.wikimedia.org/wikipedia/commons/0/07/J_P_Morgan_Chase_Logo_2008_1.svg' height='30'>](http://www.chase.com)  and  [<img src='https://simpleicons.org/icons/cisco.svg' height='40'>](http://www.cisco.com)
+ [<img src='https://simpleicons.org/icons/groupon.svg' height='20'>](https://www.groupon.com/)ROUPON
+ [<img src='https://upload.wikimedia.org/wikipedia/commons/0/07/J_P_Morgan_Chase_Logo_2008_1.svg' height='30'>](http://www.chase.com)  and
+  [<img src='https://simpleicons.org/icons/cisco.svg' height='40'>](http://www.cisco.com)
+
 - 💬 Ask me about [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='20'>](https://start.spring.io/) Springboot on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='20'>](https://stackoverflow.com/users/story/6229475)
 
-<h3>I am also active on:</h3>
-<p>
-  <a href="https://www.linkedin.com/in/ashishm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://medium.com/@mishra.ashish" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/story/6229475" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/stackoverflow-%2312100E.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange" /></a>
-  <a href="https://about.me/ashishm1shra" target="_blank"><img alt="aboutme" src="https://img.shields.io/badge/about.me-%230077B5.svg?&style=for-the-badge&logo=about.me&logoColor=pink" /></a>
-</p>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishmishraw&show_icons=true)  
 
